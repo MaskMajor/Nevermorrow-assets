@@ -1,1 +1,3 @@
-
+##To do:
+* Enemies
+* Village 1 design
