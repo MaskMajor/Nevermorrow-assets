@@ -1,6 +1,6 @@
 # Nevermorrow-assets
-All the asserts that the art team made, put in one place by the one and only ME!!!!
-Map made by Minines
+All the asserts that the art team made, put in one place by the one and only ME!!!!\
+Map made by Minines\
 Town design by minotaurthegreat
 
 ## Changelogs :
