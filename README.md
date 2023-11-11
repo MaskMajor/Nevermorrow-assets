@@ -4,5 +4,5 @@ Map and menu BGS made by Minines\
 Town concepts by minotaurthegreat
 
 ## Changelogs :
-11/11/2023 Moved added a few stuffs
+11/11/2023 Moved added a few stuffs\
 30/10/2023 Uploaded a few of the towers and the unfinished main character assets
