@@ -9,6 +9,10 @@ Inter Font : https://fonts.google.com/specimen/Inter \
 Khand Font : https://fonts.google.com/specimen/Khand \
 WIP Interface : https://www.figma.com/proto/7o3z8OdvGEWOmOcNauHNxu/Nevermorrow-uhhh-interface?node-id=24-126&mode=design&t=Emw3mU3F6I1JN8dI-1 
 
+## Cum descarc ?
+1. Apasa pe BUTONUL VERDE PE CARE SCRIE CODE
+2. Apasa pe Download ZIP
+   
 ## Changelogs :
 11/11/2023 Moved added a few stuffs. added links\
 30/10/2023 Uploaded a few of the towers and the unfinished main character assets
