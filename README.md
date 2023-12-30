@@ -14,5 +14,6 @@ WIP Interface : [click here](https://www.figma.com/proto/7o3z8OdvGEWOmOcNauHNxu/
 2. Apasa pe Download ZIP
    
 ## Changelogs :
+30/12/2023 Added all the finished assets and files\
 11/11/2023 Moved added a few stuffs. added links\
 30/10/2023 Uploaded a few of the towers and the unfinished main character assets
